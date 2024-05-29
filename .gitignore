@@ -5,3 +5,5 @@ dataset
 examples
 body_models
 .env
+pyrightconfig.json
+.python-version
